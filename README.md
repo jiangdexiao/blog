@@ -2,6 +2,8 @@
 >[1.正则](https://github.com/jiangdexiao/blog/issues/1)
 
 >[2.你真的懂this吗](https://www.jianshu.com/p/cdbc292b1e49)
+
+>[3.eslintrc配置说明](https://github.com/jiangdexiao/blog/issues/2)
 ## [设计模式](https://github.com/jiangdexiao/blog/tree/master/design-mode)  
 ## [数据结构和算法](https://github.com/jiangdexiao/blog/tree/master/structure)  
 ## Vue相关
