@@ -10,6 +10,9 @@
 >[5.http缓存](https://github.com/jiangdexiao/blog/issues/4)
 
 >[6.h5骨架屏方案](https://xiaoiver.github.io/coding/2017/07/30/%E4%B8%BAvue%E9%A1%B9%E7%9B%AE%E6%B7%BB%E5%8A%A0%E9%AA%A8%E6%9E%B6%E5%B1%8F.html)
+
+>[7.常见web安全问题](https://github.com/jiangdexiao/blog/issues/10)
+
 ## [设计模式](https://github.com/jiangdexiao/blog/tree/master/design-mode)  
 ## [数据结构和算法](https://github.com/jiangdexiao/blog/tree/master/structure)  
 ## 二、Vue相关
