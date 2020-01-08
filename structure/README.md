@@ -9,7 +9,7 @@
 ## 二叉树概述
 
 >树是用来模拟具有树状结构性质的数据集合。根据它的特性可以分为非常多的种类，对于我们来讲，掌握二叉树这种结构就足够了，它也是树最简单、应用最广泛的种类  
-![图片名称](https://github.com/jiangdexiao/structure/raw/master/images/tree.jpg)   
+![](https://github.com/jiangdexiao/blog/blob/master/structure/images/tree.jpg)   
 
 ### 二叉树遍历
 
