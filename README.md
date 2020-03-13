@@ -18,11 +18,17 @@
 >[9.window jq 包安装问题记录](https://github.com/jiangdexiao/blog/issues/12)
 
 ## [设计模式](https://github.com/jiangdexiao/blog/tree/master/design-mode)  
-## [数据结构和算法](https://github.com/jiangdexiao/blog/tree/master/structure)  
-## 二、Vue相关
-> [1.自定义实现vue双向绑定过程](https://github.com/jiangdexiao/blog/tree/master/vue/myVue)  
 
-## 三、[Flutter相关](https://www.cnblogs.com/yangyxd/p/9232308.html)
+## [数据结构和算法](https://github.com/jiangdexiao/blog/tree/master/structure)  
+
+## 二、Vue相关
+> [1.自定义实现vue双向绑定过程](https://github.com/jiangdexiao/blog/tree/master/vue/myVue) 
+ 
+## 三、React相关
+> [1.react工作原理](https://github.com/jiangdexiao/blog/issues/15)  
+
+## 四、[Flutter相关](https://www.cnblogs.com/yangyxd/p/9232308.html)
+
 ### 开发遇到的问题收集
 > [1.Failed to send crash report due to a network error](https://github.com/jiangdexiao/blog/issues/5)
 
