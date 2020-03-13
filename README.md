@@ -17,6 +17,10 @@
 
 >[9.window jq 包安装问题记录](https://github.com/jiangdexiao/blog/issues/12)
 
+>[10.题记](https://github.com/jiangdexiao/blog/issues/13)
+
+>[11.Css笔记](https://github.com/jiangdexiao/blog/issues/14)
+
 ## [设计模式](https://github.com/jiangdexiao/blog/tree/master/design-mode)  
 
 ## [数据结构和算法](https://github.com/jiangdexiao/blog/tree/master/structure)  
