@@ -31,6 +31,8 @@
 ## 三、React相关
 > [1.react工作原理](https://github.com/jiangdexiao/blog/issues/15)  
 > [2.react-router工作原理](https://github.com/jiangdexiao/blog/issues/16) 
+> [3.vuex与redux区别](https://github.com/jiangdexiao/blog/issues/17)
+
 ## 四、[Flutter相关](https://www.cnblogs.com/yangyxd/p/9232308.html)
 
 ### 开发遇到的问题收集
