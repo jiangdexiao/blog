@@ -57,8 +57,6 @@
 
 >[4、链表中环的入口结点](https://github.com/jiangdexiao/blog/issues/21)
 
->[4、删除链表中重复的结点](https://github.com/jiangdexiao/blog/issues/22)
-
->[5、两个链表的公共结点](https://github.com/jiangdexiao/blog/issues/23)
+>[5、两个链表的公共结点](https://github.com/jiangdexiao/blog/issues/22)
 
 ## [排序](https://github.com/jiangdexiao/blog/blob/master/structure/algorithm/sort.js)
