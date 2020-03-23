@@ -49,4 +49,16 @@
 >链表是一种物理存储单元上非连续、非顺序的存储结构，数据元素的逻辑顺序是通过链表中的指针链接次序实现的
 每个结点包括两个部分：一个是存储数据元素的数据域，另一个是存储下一个结点地址的指针域
 
+>[1、反转链表](https://github.com/jiangdexiao/blog/issues/18)
+
+>[2、链表中倒数第K个结点](https://github.com/jiangdexiao/blog/issues/19)
+
+>[3、合并两个排序链表](https://github.com/jiangdexiao/blog/issues/20)
+
+>[4、链表中环的入口结点](https://github.com/jiangdexiao/blog/issues/21)
+
+>[4、删除链表中重复的结点](https://github.com/jiangdexiao/blog/issues/22)
+
+>[5、两个链表的公共结点](https://github.com/jiangdexiao/blog/issues/23)
+
 ## [排序](https://github.com/jiangdexiao/blog/blob/master/structure/algorithm/sort.js)
