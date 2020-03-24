@@ -1,4 +1,4 @@
-## 一、基础知识记录
+### 一、基础知识记录
 >[1.正则](https://github.com/jiangdexiao/blog/issues/1)
 
 >[2.你真的懂this吗](https://www.jianshu.com/p/cdbc292b1e49)
@@ -23,21 +23,21 @@
 
 >[12.Css笔记](https://github.com/jiangdexiao/blog/issues/14)
 
-## [设计模式](https://github.com/jiangdexiao/blog/tree/master/design-mode)  
+### [设计模式](https://github.com/jiangdexiao/blog/tree/master/design-mode)  
 
-## [数据结构和算法](https://github.com/jiangdexiao/blog/tree/master/structure)  
+### [数据结构和算法](https://github.com/jiangdexiao/blog/tree/master/structure)  
 
-## 二、Vue相关
+### 二、Vue相关
 > [1.自定义实现vue双向绑定过程](https://github.com/jiangdexiao/blog/tree/master/vue/myVue) 
  
-## 三、React相关
+### 三、React相关
 > [1.react工作原理](https://github.com/jiangdexiao/blog/issues/15)  
 
 > [2.react-router工作原理](https://github.com/jiangdexiao/blog/issues/16) 
 
 > [3.vuex与redux区别](https://github.com/jiangdexiao/blog/issues/17) 
 
-## 四、[Flutter相关](https://www.cnblogs.com/yangyxd/p/9232308.html)
+### 四、[Flutter相关](https://www.cnblogs.com/yangyxd/p/9232308.html)
 
 ### 开发遇到的问题收集
 > [1.Failed to send crash report due to a network error](https://github.com/jiangdexiao/blog/issues/5)
