@@ -23,6 +23,8 @@
 
 >[12.Css笔记](https://github.com/jiangdexiao/blog/issues/14)
 
+>[13.Cz工具集使用介绍 - 规范Git提交说明](https://juejin.im/post/5cc4694a6fb9a03238106eb9)
+
 ### [设计模式](https://github.com/jiangdexiao/blog/tree/master/design-mode)  
 
 ### [数据结构和算法](https://github.com/jiangdexiao/blog/tree/master/structure)  
