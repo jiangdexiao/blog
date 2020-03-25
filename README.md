@@ -46,6 +46,8 @@
 
 > [3.webpack-loader收集](https://github.com/jiangdexiao/blog/issues/28) 
 
+> [4.webpack-持续构建](https://github.com/jiangdexiao/blog/issues/29) 
+
 ### 五、[Flutter相关](https://www.cnblogs.com/yangyxd/p/9232308.html)
 
 ### 六、开发遇到的问题收集
