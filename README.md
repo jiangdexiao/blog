@@ -21,6 +21,8 @@
 
 >[11.Promise]
 
+>[12.常见兼容性问题]
+
 >13.webAssembly
 
 >14.pwa
