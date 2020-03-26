@@ -73,6 +73,7 @@
 
 > [1.Koa2-ts-server](https://github.com/jdxorg/koa2-ts-server)
 
+> [2.Node 多进程，多进程通信](https://blog.csdn.net/hongchh/article/details/79898816)
 
 ### 8、[设计模式](https://github.com/jiangdexiao/blog/tree/master/design-mode)  
 
