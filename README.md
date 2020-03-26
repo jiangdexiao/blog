@@ -23,12 +23,13 @@
 
 >[12.常见兼容性问题]
 
->13.webAssembly
-
->14.pwa
+>[13.Performance](https://developer.mozilla.org/zh-CN/docs/Web/API/Performance)
 
 >[15.V8引擎](https://github.com/jiangdexiao/blog/issues/33)
 
+>16.webAssembly
+
+>17.pwa
 
 ### 2、Vue相关
 > [1.自定义实现vue双向绑定过程](https://github.com/jiangdexiao/blog/tree/master/vue/myVue) 
