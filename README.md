@@ -71,6 +71,8 @@
 
 > [1.taro_trip](https://github.com/jdxorg/taro-trip)
 
+> [2.taro-仿探探图片效果]
+
 ### 7、NodeJs相关
 
 > [1.Koa2-ts-server](https://github.com/jdxorg/koa2-ts-server)
