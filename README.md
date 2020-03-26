@@ -57,11 +57,13 @@
 
 > [9.ssr方案]
 
-### 5、[Flutter相关](https://www.cnblogs.com/yangyxd/p/9232308.html)
+### 5、[Flutter相关/webApp](https://www.cnblogs.com/yangyxd/p/9232308.html)
 
 > [1.flutter demo](https://github.com/jiangdexiao/flutter-app)
 
 > [2.flutter_trip](https://github.com/jdxorg/flutter_trip_app)
+
+> [3.h5-app](https://github.com/jiangdexiao/h5-app)
 
 ### 6、小程序
 
@@ -106,3 +108,4 @@ HTTP/2面向TCP设计，因此数据流在HTTP层处理。
 
 > [6.ios相关问题](https://github.com/jiangdexiao/blog/issues/30)
 
+> [7.腾讯云播放器集成 vod-js-sdk-v6 ](https://github.com/tencentyun/vod-js-sdk-v6) [文档](https://cloud.tencent.com/document/product/266/9239)
