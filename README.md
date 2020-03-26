@@ -49,7 +49,7 @@
 
 > [7.代码检查规范eslint](https://github.com/jiangdexiao/blog/issues/2)
 
-> [8.前端（行为，异常，性能）监控]
+> [8.前端（行为，异常，性能）监控](https://github.com/jiangdexiao/blog/issues/32)
 
 > [9.ssr方案]
 
