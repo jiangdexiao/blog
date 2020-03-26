@@ -19,6 +19,8 @@
 
 >[10.Css笔记](https://github.com/jiangdexiao/blog/issues/14)
 
+>[11.Promise]
+
 >13.webAssembly
 
 >14.pwa
