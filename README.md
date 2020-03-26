@@ -59,11 +59,24 @@
 
 ### 5、[Flutter相关](https://www.cnblogs.com/yangyxd/p/9232308.html)
 
-### 6、[设计模式](https://github.com/jiangdexiao/blog/tree/master/design-mode)  
+> [1.flutter demo](https://github.com/jiangdexiao/flutter-app)
 
-### 7、[数据结构和算法](https://github.com/jiangdexiao/blog/tree/master/structure)  
+> [2.flutter_trip](https://github.com/jdxorg/flutter_trip_app)
 
-### 8、[网络相关]
+### 6、小程序
+
+> [1.taro_trip](https://github.com/jdxorg/taro-trip)
+
+### 7、NodeJs相关
+
+> [1.Koa2-ts-server](https://github.com/jdxorg/koa2-ts-server)
+
+
+### 8、[设计模式](https://github.com/jiangdexiao/blog/tree/master/design-mode)  
+
+### 9、[数据结构和算法](https://github.com/jiangdexiao/blog/tree/master/structure)  
+
+### 10、[网络相关]
 >[1.网络协议](https://github.com/jiangdexiao/blog/issues/31)
 
 >[2.http工作原理](https://github.com/jiangdexiao/blog/issues/3)
@@ -78,7 +91,9 @@ HTTP/3面向QUIC设计，QUIC是一个自己处理数据流的传输层协议。
 
 HTTP/2面向TCP设计，因此数据流在HTTP层处理。
 
-### 9、开发遇到的问题收集
+### 11、操作系统相关
+
+### 12、开发遇到的问题收集
 > [1.Failed to send crash report due to a network error](https://github.com/jiangdexiao/blog/issues/5)
 
 > [2.dart.json 快捷配置](https://github.com/jiangdexiao/blog/issues/6)
