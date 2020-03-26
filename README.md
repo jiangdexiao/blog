@@ -70,11 +70,13 @@
 
 > [3.h5-app](https://github.com/jiangdexiao/h5-app)
 
-### 6、小程序
+### [6、小程序](https://developers.weixin.qq.com/miniprogram/dev/framework/)
 
-> [1.taro_trip](https://github.com/jdxorg/taro-trip)
+> [1.实现原理]
 
-> [2.taro-仿探探图片效果]
+> [2.taro_trip](https://github.com/jdxorg/taro-trip)
+
+> [3.taro-仿探探图片效果]
 
 ### 7、NodeJs相关
 
