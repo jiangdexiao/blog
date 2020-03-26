@@ -47,7 +47,7 @@
 
 > [7.代码检查规范eslint](https://github.com/jiangdexiao/blog/issues/2)
 
-> [8.前端性能监控和异常监控]
+> [8.前端（行为，异常，性能）监控]
 
 > [9.ssr方案]
 
