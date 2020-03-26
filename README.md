@@ -58,15 +58,19 @@
 ### 7、[数据结构和算法](https://github.com/jiangdexiao/blog/tree/master/structure)  
 
 ### 8、[网络相关]
->[1.网络协议]
+>[1.网络协议](https://github.com/jiangdexiao/blog/issues/31)
 
 >[2.http工作原理](https://github.com/jiangdexiao/blog/issues/3)
 
 >[3.http缓存](https://github.com/jiangdexiao/blog/issues/4)
 
->[4.http2是如何实现多路复用的]
+>[4.http2是如何实现多路复用的](https://www.jianshu.com/p/ff8f0bd78942)
 
->[5.http3]
+>[5.http3](https://www.kancloud.cn/kancloud/http3-explained/1395004)
+
+HTTP/3面向QUIC设计，QUIC是一个自己处理数据流的传输层协议。
+
+HTTP/2面向TCP设计，因此数据流在HTTP层处理。
 
 ### 9、开发遇到的问题收集
 > [1.Failed to send crash report due to a network error](https://github.com/jiangdexiao/blog/issues/5)
