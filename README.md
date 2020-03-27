@@ -43,6 +43,8 @@
 
 > [4.react 后台系统脚手架](https://github.com/jdxorg/antd-admin-js)
 
+> [5.Fiber](https://github.com/acdlite/react-fiber-architecture)
+
 ### 4、工程化相关
 > [1.webpack-构建速度优化](https://github.com/jiangdexiao/blog/issues/26) 
 
