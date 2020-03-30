@@ -78,7 +78,7 @@
 
 > [2.taro_trip](https://github.com/jdxorg/taro-trip)
 
-> [3.taro-仿探探图片效果]
+> [3.taro-仿探探图片左滑优化效果](https://github.com/jiangdexiao/taro-tantan)
 
 ### 7、NodeJs相关
 
