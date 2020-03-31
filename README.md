@@ -50,6 +50,7 @@
 > [1.实现原理](https://developers.weixin.qq.com/miniprogram/dev/framework/quickstart/framework.html#%E6%B8%B2%E6%9F%93%E5%B1%82%E5%92%8C%E9%80%BB%E8%BE%91%E5%B1%82) <br>
 > [2.taro_trip](https://github.com/jdxorg/taro-trip) <br>
 > [3.taro-仿探探图片左滑优化效果](https://github.com/jiangdexiao/taro-tantan) <br>
+> [4.taro-doova 涂鸦工具]
 
 ### 7、NodeJs相关
 > [1.Koa2-ts-server](https://github.com/jdxorg/koa2-ts-server) <br>
