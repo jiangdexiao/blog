@@ -18,8 +18,10 @@
 
 ### 2、Vue相关
 > [1.自定义实现vue双向绑定过程](https://github.com/jiangdexiao/blog/tree/master/vue/myVue)  <br>
-> [2.diff] <br>
- 
+> [2.vue diff] <br>
+> [3.vue-router原理]<br>
+> [4.vuex原理]<br>
+
 ### 3、React相关
 > [1.react工作原理](https://github.com/jiangdexiao/blog/issues/15)   <br>
 > [2.react-router工作原理](https://github.com/jiangdexiao/blog/issues/16)  <br>
