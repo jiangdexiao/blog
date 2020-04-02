@@ -42,6 +42,7 @@
 > [8.前端（行为，异常，性能）监控](https://github.com/jiangdexiao/blog/issues/32) <br>
 > [9.ssr方案] <br>
 > [10.webpack工作原理] <br>
+> [11.nginx配置详解](https://www.jianshu.com/p/5d6bd48b4c2f)
 
 ### 5、[Flutter相关/webApp](https://www.cnblogs.com/yangyxd/p/9232308.html)
 > [1.flutter demo](https://github.com/jiangdexiao/flutter-app) <br>
