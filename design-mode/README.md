@@ -5,7 +5,7 @@
  * @LastEditTime: 2020-04-02 15:27:08
  * @Description: In User Settings Edit
  -->
-## Get Started 设计模式
+## 《javascript设计模式》总结
 ### 1.创建型设计模式 
   #### 1. 简单工厂模式：
   
