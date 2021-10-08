@@ -86,8 +86,8 @@ HTTP/2面向TCP设计，因此数据流在HTTP层处理。 <br>
 > [7.腾讯云播放器集成 vod-js-sdk-v6 ](https://github.com/tencentyun/vod-js-sdk-v6) [文档](https://cloud.tencent.com/document/product/266/9239) <br>
 
 ### 13.微前端
-> [1.single-spa原理]
-> [2.qiankun原理]
-> [3.qiankun实践]
+> [1.single-spa原理]<br>
+> [2.qiankun原理]<br>
+> [3.qiankun实践]<br>
 
 ### 14.开发工具(效率提升)
