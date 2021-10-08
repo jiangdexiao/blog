@@ -1,4 +1,4 @@
-# [知识体系大纲](https://www.processon.com/mindmap/5e8d76c26376894bc67f93f7)
+# [知识体系大纲](https://www.processon.com/embed/5e8d76c26376894bc67f93f7)
 
 ### 1、基础知识记录
 >[1.正则](https://github.com/jiangdexiao/blog/issues/1) <br>
