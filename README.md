@@ -8,9 +8,6 @@
 >[5.常见web安全问题](https://github.com/jiangdexiao/blog/issues/10) <br>
 >[6.VsCode常用插件及配置](https://github.com/jiangdexiao/blog/issues/11) <br>
 >[7.window jq 包安装问题记录](https://github.com/jiangdexiao/blog/issues/12) <br>
->[8.题记](https://github.com/jiangdexiao/blog/issues/13) <br>
->[8.题记-2](https://github.com/jiangdexiao/blog/issues/34)<br>
->[9.题记-react和vue篇](https://github.com/jiangdexiao/blog/issues/25) <br>
 >[10.Css笔记](https://github.com/jiangdexiao/blog/issues/14) <br>
 >[11.Promise] <br>
 >[12.常见兼容性问题] <br>
