@@ -9,6 +9,9 @@
 > ### [6.网络 相关](https://github.com/jiangdexiao/blog/issues/44)
 > ### 7.Node 相关
 > ### [8.工程化 相关](https://github.com/jiangdexiao/blog/issues/45)
+> ### [9.设计模式](https://github.com/jiangdexiao/blog/tree/master/design-mode)  
+> ### [10.数据结构和算法](https://github.com/jiangdexiao/blog/tree/master/structure)  
+> ### 操作系统相关
 
 ## [Flutter相关/webApp](https://www.cnblogs.com/yangyxd/p/9232308.html)
 > [1.flutter demo](https://github.com/jiangdexiao/flutter-app) <br>
@@ -24,12 +27,6 @@
 ## NodeJs相关
 > [1.Koa2-ts-server](https://github.com/jdxorg/koa2-ts-server) <br>
 > [2.Node 多进程，多进程通信](https://blog.csdn.net/hongchh/article/details/79898816) <br>
-
-## [设计模式](https://github.com/jiangdexiao/blog/tree/master/design-mode)  
-
-## [数据结构和算法](https://github.com/jiangdexiao/blog/tree/master/structure)  
-
-## 操作系统相关
 
 ## 开发遇到的问题收集
 > [1.Failed to send crash report due to a network error](https://github.com/jiangdexiao/blog/issues/5) <br>
